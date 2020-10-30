@@ -1,3 +1,10 @@
+# Start Frontend
+1. Clone or download repository.
+2. Open terminal.
+3. In terminal write command: npm install.
+4. In terminal write command: npm start.
+
+
 Задание 1 (Junior)
 
 1. Сверстать адаптивную таблицу 5х3, не используя тега <table>
@@ -14,3 +21,5 @@ obj={
     a3:{aa:[8,-1], bb:7, cc:{aaa:3,bbb:0}},
     a4:{aa:[-4,-2], bb:-2, cc:{aaa:8,bbb:9}}
 }
+
+
