@@ -1,4 +1,4 @@
-# Start Frontend
+Start
 1. Clone or download repository.
 2. Open terminal.
 3. In terminal write command: npm install.
